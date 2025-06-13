@@ -253,3 +253,16 @@ span.elision{
 	margin-left: 3em;
 }
 /* end of poem/verse/song */
+
+/* custom */
+header > p[epub|type~="dedication"]{
+        display: inline-block;
+        font-style: italic;
+        max-width: 80%;
+}
+
+header [epub|type~="z3998:signature"]{
+        font-style: initial;
+        text-align: right;
+}
+/* end of custom */
