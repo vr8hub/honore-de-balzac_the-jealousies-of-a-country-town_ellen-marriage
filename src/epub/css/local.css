@@ -17,12 +17,15 @@ footer{
 /* custom */
 header > p[epub|type~="dedication"]{
         display: inline-block;
-        font-style: italic;
         max-width: 80%;
+        text-align: initial;
 }
 
 header [epub|type~="z3998:signature"]{
-        font-style: initial;
         text-align: right;
+}
+
+#dedication-2 header p{
+	font-style: italic;
 }
 /* end of custom */
