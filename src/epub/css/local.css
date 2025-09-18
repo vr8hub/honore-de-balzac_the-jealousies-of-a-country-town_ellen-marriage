@@ -16,16 +16,20 @@ footer{
 
 /* custom */
 header > p[epub|type~="dedication"]{
-        display: inline-block;
-        max-width: 80%;
-        text-align: initial;
+	display: inline-block;
+	max-width: 80%;
+	text-align: initial;
 }
 
 header [epub|type~="z3998:signature"]{
-        text-align: right;
+	text-align: right;
 }
 
 #dedication-2 header p{
 	font-style: italic;
+}
+
+#dedication-2 header p i{
+	font-style: normal;
 }
 /* end of custom */
