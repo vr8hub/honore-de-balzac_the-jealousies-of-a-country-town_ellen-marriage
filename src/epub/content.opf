@@ -39,9 +39,10 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Provincial Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two stories of the petty rivalries and resentments in a French provincial town.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;“The Old Maid” tells the story of three men who are all after the hand of the same wealthy spinster in their town of Alençon. The Chevalier de Valois is a member of the ancien régime with a penchant for snuff from the snuffbox he’s kept for sentimental reasons. Du Bosquier is a former financier who fell on hard times after he was discharged by Napoleon and whom Mlle. Cormon has already rejected once. Both of these men are in their late fifties, and their interests in the forty-something Mlle. Cormon are financial rather than romantic. The third suitor is Athanese Granson, a young man of twenty-three who has fallen head over heels in love with Mlle. Cormon, who is a friend of his mother’s. While each of them are devising ways they can win her hand, her focus is somewhere else entirely, on M. de Troisville, who is looking to settle down in Alençon.&lt;/p&gt;
+			&lt;p&gt;“The Collection of Antiquities” is the name given to the salon of the Marquis d’Escrignon by those have been excluded from it. This includes the aforementioned du Bosquier, who &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt; has inexplicably called du Crosier in this story. The marquis’s son, Victurnien, has been terrifically spoiled by his aunt, the marquis’s sister, who has raised him with her brother after the death of the mother. Victurnien is profligate with money, and is repeatedly rescued from ruin by the marquis’s faithful notary. He eventually ends up in a situation, through his own recklessness and the cunning of a family enemy, that threatens not only his livelihood but also that of his entire family.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- TRANSCRIPTIONS -->
